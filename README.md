@@ -1,2 +1,2 @@
 # codeforces
-graph probelms in codeforces
+probelms in codeforces
